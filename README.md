@@ -1,4 +1,6 @@
-# Improving LLM-as-a-Judge Inference with Distributional Judgment
+# Improving LLM-as-a-Judge Inference with the Judgment Distribution
+
+<a href="https://arxiv.org/pdf/2503.03064">Paper</a>
 
 ![fig1](figs/fig1.png)
 
